@@ -1,8 +1,8 @@
-# Pharma Robot - eYantra Robotics Competition Team PB#1182 
+# Pharma Robot - [eYantra Robotics Competition](https://www.e-yantra.org/eyrc) Team PB#1182 
 
 ## Overview
 
-This repository contains the code and documentation for the Pharma Robot developed for the eYantra Robotics Competition at IIT Bombay by Team PB#1182. The Pharma Robot is designed to address the issue of efficient medicine delivery in a smart city setting. The competition aims to explore autonomous robotics solutions to enhance the delivery of medicine packets from pharmacies to designated locations within a smart city arena.
+This repository contains the code and documentation for the Pharma Robot developed for the [eYantra](https://www.e-yantra.org/eyrc) Robotics Competition 2k23 at IIT Bombay by Team PB#1182. The Pharma Robot is designed to address the issue of efficient medicine delivery in a smart city setting. The competition aims to explore autonomous robotics solutions to enhance the delivery of medicine packets from pharmacies to designated locations within a smart city arena.
 
 ![Pharma Robot](https://github.com/Sree-harsh/PharmaBot-eYRC-2k23/assets/98598677/b339a841-0978-489b-85ae-5bc6954491ba)
 <p align="center"><strong>#1182's Pharma Bot</strong></p>
