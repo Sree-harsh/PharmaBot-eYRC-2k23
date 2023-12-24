@@ -17,6 +17,8 @@ This repository contains the code and documentation for the Pharma Robot develop
 
 <p align="center"><strong>Node Detection on Rpi</strong></p>
 
+![gif](/assets/2.gif)
+
 
 
 
@@ -25,16 +27,17 @@ This repository contains the code and documentation for the Pharma Robot develop
 - [Code Structure](#code-structure)
 - [Rulebook](#rule-book)
 - [Challenges](#key-challenges)
+- [Theme Run](#theme-run)
 - [Acknowledgments](#acknowledgments)
 
 ## Code Structure
 
-The Repository contains 2 main files :-
-1. [Theme_functions](/PB_1182_PB_theme_functions.py)
-2. [Raspberrypicode](/PB_1182_Raspberrypicode.py)
-3. [task_1b.py](/task_1b.py)
-4. [task_6.py](/task_6.py)
-5. [task_6_scene.zip](/task_6_scene.zip)
+The Repository contains 5 well-commented and maintained files :-
+1. [Theme_functions](/PB_1182_PB_theme_functions.py) - Contains all the functions used in the code base.
+2. [Raspberrypicode](/PB_1182_Raspberrypicode.py) - Consists of the Node detection and line following logic running on the Raspberrypi 3B. 
+3. [task_1b.py](/task_1b.py) - Contains aruco detection code blocks .
+4. [task_6.py](/task_6.py) - The entire server side code base and logics used in the theme which were submitted in task 6 (last task before finale).
+5. [task_6_scene.zip](/task_6_scene.zip):- Contains the Coppeliasim scene which the team presented in the Finals.
 
 ## Rule Book
 
@@ -57,7 +60,7 @@ The [Rulebook](assets/rulebook.pdf) contains all the guidelines and deliverables
 
 Overall, the Pharma Bot theme combines elements of image processing, algorithm development, simulation, and hardware integration to simulate a real-world scenario of autonomous medicine delivery in a smart city, emphasizing efficiency, accuracy, and creativity. The competition encourages participants to showcase their skills in robotics, computer vision, and algorithmic design.
 
-## Theme Run @IITB
+## Theme Run 
 
 Here is the [link](https://www.youtube.com/live/7L1HzlAIuvg?si=YzjcJKyt8zgEEI6j&t=21519) to the video of the final theme run performed at IIT-Bombay.
 
