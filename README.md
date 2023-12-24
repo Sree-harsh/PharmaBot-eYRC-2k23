@@ -15,39 +15,10 @@ This repository contains the code and documentation for the Pharma Robot develop
 
 
 ## Table of Contents
-
-- [Overview](#overview)
-- [Features](#features)
-- [Getting Started](#getting-started)
-- [Dependencies](#dependencies)
-- [Installation](#installation)
-- [Usage](#usage)
 - [Code Structure](#code-structure)
 - [Rulebook](#rule-book)
 - [Challenges](#key-challenges)
 - [Acknowledgments](#acknowledgments)
-
-## Features
-
-- [List key features of your project]
-
-## Getting Started
-
-[Provide information on how to get started with your project, including installation steps and basic usage instructions.]
-
-## Dependencies
-
-- [List the dependencies required to run your project.]
-
-## Installation
-
-[Provide detailed installation instructions for your project.]
-
-## Usage
-
-[Explain how to use your project, including any configuration options or command-line parameters.]
-
-![Pharma Robot in Action](docs/gifs/pharma_robot.gif)
 
 ## Code Structure
 
@@ -75,6 +46,10 @@ The [Rulebook](/rulebook.pdf) contains all the guidelines and deliverables the r
 **6. Package Pickup and Delivery:** The robot must "pick up" medicine packages from medical shops and "deliver" them to specified locations. The pickup and delivery process is indicated using RGB LEDs, and the robot must adhere to the constraints of carrying a maximum of three packages at a time.
 
 Overall, the Pharma Bot theme combines elements of image processing, algorithm development, simulation, and hardware integration to simulate a real-world scenario of autonomous medicine delivery in a smart city, emphasizing efficiency, accuracy, and creativity. The competition encourages participants to showcase their skills in robotics, computer vision, and algorithmic design.
+
+## Theme Run @IITB
+
+Here is the [link](https://www.youtube.com/live/7L1HzlAIuvg?si=YzjcJKyt8zgEEI6j&t=21519) to the video of the final theme run performed at IIT-Bombay.
 
 ## Acknowledgments
 
