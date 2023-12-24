@@ -23,7 +23,7 @@ This repository contains the code and documentation for the Pharma Robot develop
 - [Installation](#installation)
 - [Usage](#usage)
 - [Code Structure](#code-structure)
-- [Documentation](#documentation)
+- [Rulebook](#rule-book)
 - [Challenges](#key-challenges)
 - [Acknowledgments](#acknowledgments)
 
@@ -55,16 +55,16 @@ The Repository contains 2 main files :-
 1. [Theme_functions](/PB_1182_PB_theme_functions.py)
 2. [Raspberrypicode](/PB_1182_Raspberrypicode.py)
 
-## Documentation
+## Rule Book
 
-[Provide links to any additional documentation or external resources related to your project.]
+The [Rulebook](/rulebook.pdf) contains all the guidelines and deliverables the robot had to perform at the finals @IIT-Bombay. It also contains an in-depth explanation of the theme. 
 
 
 ## Key Challenges
 
-**1. Autonomous Navigation:** Participants are required to develop robots capable of autonomously navigating a 5x5 grid representing a smart city. The robot must move through the grid, avoiding obstacles such as roads under construction and responding to traffic signals.
+**1. Autonomous Navigation:** Participants are required to develop robots capable of autonomously navigating a 5x5 grid representing a smart city. The robot must move through the grid, avoiding       obstacles such as roads under construction and responding to traffic signals.
    
-**2. Image Processing:** The competition involves extracting critical information from test images using OpenCV and Python. This includes identifying start and end nodes, locations of traffic signals, details of medicine packages in medical shops, and roads under construction.
+**2. Image Processing:** The competition involves extracting critical information from test images using OpenCV and Python. This includes identifying start and end nodes, locations of traffic        signals, details of medicine packages in medical shops, and roads under construction.
 
 **3. Algorithm Building:** Teams need to build algorithms for tasks such as line following, path planning, and robotic navigation. Time is a crucial factor, and efficient algorithms are essential to complete assigned tasks quickly.
 
