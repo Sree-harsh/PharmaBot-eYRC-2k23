@@ -11,6 +11,13 @@ This repository contains the code and documentation for the Pharma Robot develop
 | :---:         |          :---: |
 |<img width="550" alt="1" src="https://github.com/Sree-harsh/PharmaBot-eYRC-2k23/assets/98598677/1d7960b1-d372-44ec-879e-e2302250f8f3">   | <img width="400" alt="2" src="https://github.com/Sree-harsh/PharmaBot-eYRC-2k23/assets/98598677/25e6a877-376d-46a2-bce8-33d31d413294">     | 
 
+<p align="center"><strong>Coppeliasim Emulation</strong></p>
+
+![gif](/assets/1.gif)
+
+<p align="center"><strong>Node Detection on Rpi</strong></p>
+
+
 
 
 
@@ -25,10 +32,13 @@ This repository contains the code and documentation for the Pharma Robot develop
 The Repository contains 2 main files :-
 1. [Theme_functions](/PB_1182_PB_theme_functions.py)
 2. [Raspberrypicode](/PB_1182_Raspberrypicode.py)
+3. [task_1b.py](/task_1b.py)
+4. [task_6.py](/task_6.py)
+5. [task_6_scene.zip](/task_6_scene.zip)
 
 ## Rule Book
 
-The [Rulebook](/rulebook.pdf) contains all the guidelines and deliverables the robot had to perform at the finals @IIT-Bombay. It also contains an in-depth explanation of the theme. 
+The [Rulebook](assets/rulebook.pdf) contains all the guidelines and deliverables the robot had to perform at the finals @IIT-Bombay. It also contains an in-depth explanation of the theme. 
 
 
 ## Key Challenges
