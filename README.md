@@ -7,6 +7,13 @@ This repository contains the code and documentation for the Pharma Robot develop
 ![Pharma Robot](https://github.com/Sree-harsh/PharmaBot-eYRC-2k23/assets/98598677/b339a841-0978-489b-85ae-5bc6954491ba)
 <p align="center"><strong>#1182's Pharma Bot</strong></p>
 
+| Coppeliasim Emulation | OverHead Camera Feed |
+| :---:         |          :---: |
+|<img width="550" alt="1" src="https://github.com/Sree-harsh/PharmaBot-eYRC-2k23/assets/98598677/1d7960b1-d372-44ec-879e-e2302250f8f3">   | <img width="400" alt="2" src="https://github.com/Sree-harsh/PharmaBot-eYRC-2k23/assets/98598677/25e6a877-376d-46a2-bce8-33d31d413294">     | 
+
+
+
+
 ## Table of Contents
 
 - [Overview](#overview)
